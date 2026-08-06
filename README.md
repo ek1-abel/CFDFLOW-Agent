@@ -1,4 +1,4 @@
-# CFDFlow-Agent LangGraph Context 版
+# CFDFlow-Agent
 
 该项目是基于 LangGraph + Gradio + Tool System 构建 CFD 后处理智能分析工作台，支持上传 CSV/Excel/PDF 数据后自动完成数据清洗、任务分类、工具调用、指标计算、图表生成和报告输出，并可视化展示节点执行流、结构化上下文和 trace 产物。
 
